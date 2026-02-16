@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="178a237e-cff6-4671-9d61-fbc6c5ebe59e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="39InQJswP7TJDLnLSLqUvNN3cpa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Que_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Que_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Que_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Que_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Que_5.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java-arrays&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Bridgelabz-Training-1Y/java/src/String/Level3&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;G:/Bridgelabz-Training-1Y/java/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Bridgelabz-Training-1Y\java\src\String\Level3" />
+      <recent name="G:\Bridgelabz-Training-1Y\java\src\String\Level2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="String.Level3" />
+      <recent name="String.Level2" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178a237e-cff6-4671-9d61-fbc6c5ebe59e" name="Changes" comment="" />
+      <created>1770392436742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770392436742</updated>
+    </task>
+    <servers />
+  </component>
+</project>
