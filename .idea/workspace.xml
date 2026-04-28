@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c255da60-5a4e-4144-9e04-9aaee3e91460" name="Changes" comment="" />
+    <list default="true" id="c255da60-5a4e-4144-9e04-9aaee3e91460" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Library System/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Library System/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Library System/SmartLibrarySystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart Library System/TextBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/Srting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/String.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/src/GenerateSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/src/LC344.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/src/LC58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/array/array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructers/constructers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructers/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/constructors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/com/gla/Polymorphism/Calci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/com/gla/Polymorphism/Inhertance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/com/gla/Polymorphism/Inhertance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/com/gla/Polymorphism/Inhertance/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/com/gla/Polymorphism/Inhertance/mammal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/com/gla/Polymorphism/Inhertance/mammul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constructors/src/com/gla/Polymorphism/runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/Array/Level1/Que_9.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39kI6wlwtZ9Yn89jxtUUQzLV86Y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,7 +74,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "workshop",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="TaskManager">
